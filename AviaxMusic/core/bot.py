@@ -1,4 +1,4 @@
-import uvloop
+
 
 uvloop.install()
 
